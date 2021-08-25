@@ -1,9 +1,10 @@
 .products__wrapper {
-    /* background-color: var(--second-brand-color); */
+    padding: 5rem;
 }
 .products {
     text-align: center;
     padding: 5rem 0;
+    background-color: rgba(239, 177, 128, .3);
 }
 
 .sub-title__box {

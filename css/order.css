@@ -169,7 +169,7 @@
         padding: 2rem;
     }
     .products {
-        padding: 15rem 0;
+        padding: 15rem 0 19rem;
     }
     .inputs-box, .form__card-block {
         display: flex;
