@@ -12,7 +12,6 @@
 }
 .text-section .bold {
     font-family: var(--title-font);
-    font-size: 1.6rem;
     text-decoration: none;
 }
 .text-section .up {
